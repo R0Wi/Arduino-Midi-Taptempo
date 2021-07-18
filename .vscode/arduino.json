@@ -1,0 +1,6 @@
+{
+    "configuration": "cpu=atmega328old",
+    "board": "arduino:avr:nano",
+    "port": "/dev/ttyUSB0",
+    "sketch": "arduino_midi_taptempo.ino"
+}
